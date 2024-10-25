@@ -41,11 +41,12 @@ label{
 .currency-input {
     display: flex;
     align-items: center;
+
 }
 
 #currencySymbol {
-    margin-right: 10px;
-    font-size: 1.5em;
+    margin-right: 50px;
+    font-size: 2.5em;
 }
 
 input[type="text"] {

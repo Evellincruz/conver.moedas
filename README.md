@@ -1,6 +1,6 @@
 # 🌍 Conversor de Moedas
 
-## 🌟 indiíe
+## 🌟 indíce
 
 * [Descrição](#descrição)
 * [Funcionalidades](#📚-funcionalidades)
@@ -11,6 +11,7 @@
 * [Estrutura do Projeto](#🗂️-estrutura-do-projeto)
 * [Resultado](#🎨-resultado)
 * [Contibuições](#🤝-contribuições)
+* [Autor(a)](#autora)
 
 ## 🛠️ Descrição
 
@@ -67,3 +68,7 @@ Abra o Arquivo HTML: Execute o index.html em seu navegador de preferência.
 
 ## 🤝 Contribuições
 Tivemos ajuda do nosso professor Leonardo, para desenvolver está tividade, realizamos aulas, colhemos informações, e utlizamos IA (Para a correção de textos e erros nos códigos) para a realização do projeto.
+
+## Autor(a)
+
+Evellin Monteiro da Cruz.
