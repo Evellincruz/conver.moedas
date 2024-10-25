@@ -13,14 +13,16 @@
             <h1>Conversor de Moedas</h1>
         </div>
        
-        <div class="input-group">
+        <div class="select-group">
             <div class="currency-input">
                 <span id="currencySymbol">$</span> <!-- Símbolo da moeda -->
                 <input type="text" id="amount" placeholder="Valor" required />
             </div>
         </div>
-       
+        
+        <br>
         <div class="select-group">
+            <label for=""> Moeda para inserir:</label>
             <select id="fromCurrency">
                 <option value="USD"> Dólar (USD)</option>
                 <option value="EUR"> Euro (EUR)</option>
@@ -29,6 +31,8 @@
         </div>
  
         <div class="select-group">
+            <label for="">Moeda para converter:</label>
+            <br>
             <select id="toCurrency">
                 <option value="USD"> Dólar (USD)</option>
                 <option value="EUR"> Euro (EUR)</option>

@@ -39,10 +39,10 @@ Abra o Arquivo HTML: Execute o index.html em seu navegador de preferência.
 
 ## 🔧 Realize Conversão:
 
-Digite o valor que deseja converter.
-Selecione a moeda de origem (Dólar, Euro ou Real).
-Selecione a moeda de destino.
-Clique em "Converter" e veja o resultado!
+- Digite o valor que deseja converter.
+- Selecione a moeda de origem (Dólar, Euro ou Real).
+- Selecione a moeda de destino.
+- Clique em "Converter" e veja o resultado!
 
 ## 💡 Exemplo de Uso
 "Imagine que você deseja saber quanto 100 USD equivale em Euros:
@@ -63,7 +63,7 @@ Clique em "Converter" e veja o resultado!
 
 ## 🎨 Resultado
 
-![]()
+![gif](gifs/gif.gif)
 
 ## 🤝 Contribuições
 Tivemos ajuda do nosso professor Leonardo, para desenvolver está tividade, realizamos aulas, colhemos informações, e utlizamos IA (Para a correção de textos e erros nos códigos) para a realização do projeto.
