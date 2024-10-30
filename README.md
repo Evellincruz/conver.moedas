@@ -1,17 +1,17 @@
-# 🌍 Conversor de Moedas
+# 🪙 Conversor de Moedas 🪙
 
 ## 🌟 indíce
 
-* [Descrição](#descrição)
+* [Descrição](#🛠️-descrição)
 * [Funcionalidades](#📚-funcionalidades)
 * [Tecnologias Utilizadas](#⚙️-tecnologias-utilizadas)
 * [Como Usar](#🚀-como-usar)
-* [Realize Conversão](#realize-conversão)
+* [Realize Conversão](#🔧-realize-conversão)
 * [Exemplo de Uso](#💡-exemplo-de-uso)
 * [Estrutura do Projeto](#🗂️-estrutura-do-projeto)
 * [Resultado](#🎨-resultado)
 * [Contibuições](#🤝-contribuições)
-* [Autor(a)](#autora)
+* [Autor(a)](#✒️-autoraautora)
 
 ## 🛠️ Descrição
 
@@ -69,6 +69,6 @@ Abra o Arquivo HTML: Execute o index.html em seu navegador de preferência.
 ## 🤝 Contribuições
 Tivemos ajuda do nosso professor Leonardo, para desenvolver está tividade, realizamos aulas, colhemos informações, e utlizamos IA (Para a correção de textos e erros nos códigos) para a realização do projeto.
 
-## Autor(a)
+## ✒️ Autor(a)
 
 Evellin Monteiro da Cruz.
