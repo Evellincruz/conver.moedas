@@ -45,11 +45,12 @@ label{
 }
 
 #currencySymbol {
-    margin-right: 50px;
+    margin-right: 2px;
     font-size: 2.5em;
+    border:#507d86
 }
 
-input[type="text"] {
+input[type="number"] {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
@@ -79,7 +80,7 @@ button:hover {
 }
 
 .result-group {
-    margin-top: 20px;
-    font-size: 1.2em;
-    color: #2d555d;
+    margin-top: 10px;
+    font-size: 1.em;
+    color: #507d86;
 }
